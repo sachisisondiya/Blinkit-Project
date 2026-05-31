@@ -1,4 +1,3 @@
-# Blinkit-Project
 Project Overview – BlinkIT Sales Dashboard (Power BI)
 
 The BlinkIT Sales Dashboard is designed to analyze grocery sales performance, customer ratings, product categories, and outlet performance. It helps stakeholders monitor key business metrics, identify sales trends, and make data-driven decisions to improve revenue and operational efficiency.
