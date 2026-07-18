@@ -144,7 +144,7 @@ This dashboard helps organizations:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**SACHIN**
 
 📌 Power BI Developer & Data Analyst
 
